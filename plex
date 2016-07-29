@@ -17,4 +17,4 @@ ulimit -s $PLEX_MAX_STACK_SIZE >/dev/null
 
 cd /usr/lib/plexmediaserver
 
-exec "./Plex Media Server"
+exec "./Plex Media Server" "$@"
