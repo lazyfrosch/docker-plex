@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-ENV PLEX_VERSION 1.0.3.2461-35f0caa
+ENV PLEX_VERSION 1.1.4.2757-24ffd60
 #ENV PLEX_CHECKSUM xxxx
 
 RUN apt-get update \
