@@ -1,6 +1,6 @@
-FROM debian:jessie
+FROM debian:stretch
 
-ENV PLEX_VERSION 1.5.6.3790-4613ce077
+ENV PLEX_VERSION 1.7.5.4035-313f93718
 #ENV PLEX_CHECKSUM xxxx
 
 RUN apt-get update \
