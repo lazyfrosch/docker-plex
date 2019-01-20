@@ -1,6 +1,6 @@
 FROM lazyfrosch/debian:stretch
 
-ENV PLEX_VERSION 1.7.5.4035-313f93718
+ENV PLEX_VERSION 1.14.1.5488-cc260c476
 #ENV PLEX_CHECKSUM xxxx
 
 RUN apt-get update \
