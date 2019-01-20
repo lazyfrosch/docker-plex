@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM lazyfrosch/debian:stretch
 
 ENV PLEX_VERSION 1.7.5.4035-313f93718
 #ENV PLEX_CHECKSUM xxxx
